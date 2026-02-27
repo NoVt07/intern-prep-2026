@@ -27,6 +27,7 @@ int main(){
             cin >> nums[i];
         }
         cout << subarraySum(nums, k) << endl;
+        return 0;
     }
-    return 0;
+
 }
